@@ -1,6 +1,8 @@
 # Medway - Local Authority
 ## Maps
 
+https://www.lgcplus.com/politics/devolution-and-economic-growth/kent-and-medway-could-be-split-into-four-unitaries-20-12-2024/
+
 
 ### Description  
 Maps created for Local Authority newsletter.
